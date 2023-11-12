@@ -43,7 +43,7 @@
         "@bochilteam/scraper": "^2.0.0",
         "@vitalets/google-translate-api": "^8.0.0",
         "awesome-phonenumber": "^2.68.0",
-        "axios": "^0.24.0",
+        "axios": "^1.6.0",
         "brainly-scraper-v2": "^1.1.2",
         "cfonts": "^2.10.0",
         "chalk": "^5.0.0",
